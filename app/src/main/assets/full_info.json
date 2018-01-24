@@ -1,0 +1,802 @@
+{
+  "salon": {
+    "id": 168,
+    "name": "ManiCab",
+    "address": "ул.Ауэзова,132",
+    "workStartTime": "24-01-2018 10:00",
+    "workEndTime": "24-01-2018 21:00",
+    "type": "Салон красоты",
+    "checkRating": 0,
+    "avatarUrl": "/data/salon-pics/253_o300x300.jpg?v=1",
+    "phoneNumbers": [
+      "+7 (777) 695-24-24"
+    ],
+    "pictures": [
+      "/data/salon-pics/295_o600x300.jpg?v=0",
+      "/data/salon-pics/260_o600x300.jpg?v=0",
+      "/data/salon-pics/254_o600x300.jpg?v=0",
+      "/data/salon-pics/256_o600x300.jpg?v=0",
+      "/data/salon-pics/257_o600x300.jpg?v=0",
+      "/data/salon-pics/259_o600x300.jpg?v=0",
+      "/data/salon-pics/258_o600x300.jpg?v=0",
+      "/data/salon-pics/297_o600x300.jpg?v=0"
+    ]
+  },
+  "masters": [
+    {
+      "id": 1168,
+      "name": "Арай",
+      "surname": "",
+      "profession": "Мастер ногтевого сервиса",
+      "serviceIds": [
+        15785,
+        15786,
+        15787,
+        15788,
+        15789,
+        15790,
+        15791,
+        15792,
+        15793,
+        15794,
+        15795,
+        15796,
+        15797,
+        15798,
+        15799,
+        15800,
+        15801,
+        15832,
+        15833,
+        15834,
+        15835,
+        15836,
+        15837,
+        15838
+      ],
+      "avatarUrl": "//data/pics/master/pic-144.jpg?v=1",
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1144,
+      "name": "Малика",
+      "surname": "",
+      "profession": "Мастер ногтевого сервиса",
+      "serviceIds": [
+        15785,
+        15786,
+        15787,
+        15788,
+        15789,
+        15790,
+        15791,
+        15792,
+        15793,
+        15794,
+        15795,
+        15796,
+        15797,
+        15798,
+        15799,
+        15800,
+        15801,
+        15832,
+        15833,
+        15834,
+        15835,
+        15836,
+        15837,
+        15838
+      ],
+      "avatarUrl": "//data/pics/master/pic-143.jpg?v=1",
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1124,
+      "name": "Карина nails",
+      "surname": "",
+      "profession": "Мастер ногтевого сервиса",
+      "serviceIds": [
+        15785,
+        15786,
+        15787,
+        15788,
+        15789,
+        15790,
+        15791,
+        15792,
+        15793,
+        15794,
+        15795,
+        15796,
+        15797,
+        15798,
+        15799,
+        15800,
+        15801,
+        15832,
+        15833,
+        15834,
+        15835,
+        15836,
+        15837,
+        15838
+      ],
+      "avatarUrl": "//data/pics/master/pic-142.jpg?v=1",
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1142,
+      "name": "Альбина",
+      "surname": "",
+      "profession": "Лешмейкер",
+      "serviceIds": [
+        15771,
+        15772,
+        15773,
+        15774,
+        15779
+      ],
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1121,
+      "name": "Карина Визаж",
+      "surname": "",
+      "profession": "Визажист",
+      "serviceIds": [
+        15780,
+        15783,
+        15785,
+        15787,
+        15798,
+        15825
+      ],
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1123,
+      "name": "Нургуль",
+      "surname": "",
+      "profession": "Мастер ногтевого сервиса",
+      "serviceIds": [
+        15785,
+        15786,
+        15787,
+        15788,
+        15789,
+        15790,
+        15791,
+        15792,
+        15793,
+        15794,
+        15795,
+        15796,
+        15797,
+        15798,
+        15799,
+        15800,
+        15801,
+        15832,
+        15833,
+        15834,
+        15835,
+        15836,
+        15837,
+        15838
+      ],
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1143,
+      "name": "Райхан",
+      "surname": "",
+      "profession": "Мастер ногтевого сервиса",
+      "serviceIds": [
+        15785,
+        15786,
+        15787,
+        15788,
+        15789,
+        15790,
+        15791,
+        15792,
+        15793,
+        15794,
+        15795,
+        15796,
+        15797,
+        15798,
+        15799,
+        15800,
+        15801,
+        15825,
+        15832,
+        15833,
+        15834,
+        15835,
+        15836,
+        15837,
+        15838
+      ],
+      "avatarUrl": "//data/pics/master/pic-145.jpg?v=1",
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1122,
+      "name": "Сымбат",
+      "surname": "",
+      "profession": "Лешмейкер",
+      "serviceIds": [
+        15772,
+        15773,
+        15774,
+        15777,
+        15779,
+        15780,
+        15784
+      ],
+      "avatarUrl": "//data/pics/master/pic-146.jpg?v=1",
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    },
+    {
+      "id": 1135,
+      "name": "Лаура",
+      "surname": "",
+      "profession": "Лешмейкер",
+      "serviceIds": [
+        15784
+      ],
+      "workingDays": [
+        {
+          "date": "2018-01-24",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-25",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-26",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-27",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-28",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-29",
+          "busyTimes": []
+        },
+        {
+          "date": "2018-01-30",
+          "busyTimes": []
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": 15795,
+      "name": "Акриловое наращивание ногтей",
+      "price": 9000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 2
+    },
+    {
+      "id": 15785,
+      "name": "Аппаратный маникюр",
+      "price": 3000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15825,
+      "name": "Депиляция усики",
+      "price": 0,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 5
+    },
+    {
+      "id": 15799,
+      "name": "Дизайн ногтей",
+      "price": 2000,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15801,
+      "name": "Дизайн ногтей",
+      "price": 1500,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15833,
+      "name": "Дизайн одного ногтя",
+      "price": 0,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15834,
+      "name": "Дизайн одного ногтя",
+      "price": 0,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15780,
+      "name": "Коррекция бровей",
+      "price": 2000,
+      "priceMax": 0,
+      "duration": 45,
+      "categoryId": 4
+    },
+    {
+      "id": 15797,
+      "name": "Коррекция ногтей акрилом",
+      "price": 6000,
+      "priceMax": 7000,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15777,
+      "name": "Коррекция ресниц 3D",
+      "price": 6000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 4
+    },
+    {
+      "id": 15784,
+      "name": "Ламинирование ресниц",
+      "price": 10000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 4
+    },
+    {
+      "id": 15790,
+      "name": "Маникюр + педикюр. Экспресс мужской. Без покрытия.",
+      "price": 12000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15789,
+      "name": "Маникюр + педикюр. Экспресс. Без покрытия",
+      "price": 14000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15786,
+      "name": "Маникюр классический",
+      "price": 3000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15787,
+      "name": "Маникюр. Комбинированный. Гель",
+      "price": 3000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15798,
+      "name": "Наращивание ногтей",
+      "price": 8000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 2
+    },
+    {
+      "id": 15796,
+      "name": "Наращивание ногтей акрилом",
+      "price": 7000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 2
+    },
+    {
+      "id": 15772,
+      "name": "Наращивание ресниц 2D",
+      "price": 7000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 4
+    },
+    {
+      "id": 15773,
+      "name": "Наращивание ресниц 3D ",
+      "price": 8000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 4
+    },
+    {
+      "id": 15774,
+      "name": "Наращивание ресниц классика ",
+      "price": 6000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 4
+    },
+    {
+      "id": 15771,
+      "name": "Наращивание ресниц. объем",
+      "price": 10000,
+      "priceMax": 0,
+      "duration": 90,
+      "categoryId": 4
+    },
+    {
+      "id": 15788,
+      "name": "Педикюр классический",
+      "price": 4000,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15783,
+      "name": "Покраска бровей",
+      "price": 2000,
+      "priceMax": 0,
+      "duration": 45,
+      "categoryId": 4
+    },
+    {
+      "id": 15791,
+      "name": "Покрытие Vinylux",
+      "price": 3000,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15837,
+      "name": "Покрытие Vinylux",
+      "price": 1000,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15792,
+      "name": "Покрытие гелем",
+      "price": 2000,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15838,
+      "name": "Ремонт ногтей",
+      "price": 800,
+      "priceMax": 0,
+      "duration": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 15779,
+      "name": "Снятие ",
+      "price": 1000,
+      "priceMax": 0,
+      "duration": 45,
+      "categoryId": 4
+    },
+    {
+      "id": 15793,
+      "name": "Снятие геля",
+      "price": 500,
+      "priceMax": 0,
+      "duration": 30,
+      "categoryId": 2
+    },
+    {
+      "id": 15794,
+      "name": "Снятие геля",
+      "price": 0,
+      "priceMax": 0,
+      "duration": 30,
+      "categoryId": 2
+    },
+    {
+      "id": 15835,
+      "name": "Укрепление Акрилом ",
+      "price": 2000,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15836,
+      "name": "Укрепление ногтей базой",
+      "price": 1000,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15832,
+      "name": "Фотодизайн",
+      "price": 0,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    },
+    {
+      "id": 15800,
+      "name": "Френч, лунный",
+      "price": 250,
+      "priceMax": 0,
+      "duration": 15,
+      "categoryId": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Маникюр и педикюр"
+    },
+    {
+      "id": 4,
+      "name": "Визаж"
+    },
+    {
+      "id": 5,
+      "name": "Депиляция и эпиляция"
+    }
+  ]
+}

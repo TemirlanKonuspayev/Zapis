@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zapis</string>
+    <string name="main_screen">Главный экран</string>
+    <string name="search">Поиск</string>
+    <string name="profile">Профиль</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popular_salons">Популярные</string>
+    <string name="suggested_salons">Рекомендуемые</string>
+    <string name="recently_added_salons">Недавно добавленные</string>
+    <string name="salon_type">Салон красоты</string>
+    <string name="make_record">записаться</string>
+    <string name="services">Услуги</string>
+    <string name="def_servide_name">Акриловое наращивание ногтей</string>
+    <string name="def_duration">90 минут</string>
+    <string name="def_price">9000 тг</string>
+    <string name="def_type">Салон красоты</string>
+</resources>
